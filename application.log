@@ -1,0 +1,5 @@
+[2022-09-21T11:39:55.258826+00:00] ProgrammerZamanNow\Belajar\PHP\MVC\LevelTest.WARNING: this is log with level warning [] []
+[2022-09-21T11:39:55.259538+00:00] ProgrammerZamanNow\Belajar\PHP\MVC\LevelTest.ERROR: this is log with level error [] []
+[2022-09-21T11:39:55.260854+00:00] ProgrammerZamanNow\Belajar\PHP\MVC\LevelTest.CRITICAL: this is log with level critical [] []
+[2022-09-21T11:39:55.261504+00:00] ProgrammerZamanNow\Belajar\PHP\MVC\LevelTest.ALERT: this is log with level alert [] []
+[2022-09-21T11:39:55.261827+00:00] ProgrammerZamanNow\Belajar\PHP\MVC\LevelTest.EMERGENCY: this is log with level emergency [] []
