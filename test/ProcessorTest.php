@@ -14,7 +14,7 @@ class ProcessorTest extends TestCase
     public function testProcessorRecord()
     {
         $logger = new Logger(ProcessorTest::class);
-        $logger->pushHandler(new StreamHandler("php:://stderr")); //mengirim data log ke console
+        $logger->pushHandler(new StreamHandler("php://stderr")); //mengirim data log ke console
 
         // menambahkan informasi tambahan secara global ke semua data log yang ada di logger ini
         $logger->pushProcessor(function ($record) {
